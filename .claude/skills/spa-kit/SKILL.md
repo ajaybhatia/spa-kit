@@ -2,8 +2,9 @@
 name: spa-kit
 description: >-
   Use when editing screens, layout, routing, storage, theme, or API
-  wiring in a spa-kit Vite React SPA, or when cloning this repo from a
-  GitHub URL to start a frontend. Follow AGENTS.md "If you were given this repo URL".
+  wiring in a spa-kit Vite React SPA, or when cloning
+  https://github.com/ajaybhatia/spa-kit to start a frontend.
+  Follow AGENTS.md "If you were given this repo URL".
 ---
 
 # spa-kit UI Development

@@ -4,7 +4,7 @@ Guidance for **spa-kit** (Vite 8 + React 19 SPA kernel).
 
 Also read `ARCHITECTURE.md` (via `docs/ARCHITECTURE.md`) and `AGENTS.md`. UI skill: `.claude/skills/spa-kit/SKILL.md`.
 
-Given this repo as a GitHub URL to start a frontend: follow **If you were given this repo URL** in `AGENTS.md`. Do not scaffold a second app.
+Given https://github.com/ajaybhatia/spa-kit to start a frontend: follow **If you were given this repo URL** in `AGENTS.md`. Do not scaffold a second app.
 
 ## Layout
 

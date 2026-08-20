@@ -2,7 +2,7 @@
 
 Lean React SPA kernel. Presentation-only — authorization belongs on the API.
 
-Bootstrapping from a GitHub URL: follow **If you were given this repo URL** in [`AGENTS.md`](../AGENTS.md).
+Bootstrapping from https://github.com/ajaybhatia/spa-kit: follow **If you were given this repo URL** in [`AGENTS.md`](../AGENTS.md).
 
 **Agent skill:** [`.claude/skills/spa-kit/SKILL.md`](../.claude/skills/spa-kit/SKILL.md) (mirrored at `.cursor/skills/spa-kit/`).
 

@@ -8,7 +8,7 @@ Also: `docs/ARCHITECTURE.md`. Claude Code: `CLAUDE.md` + `.claude/skills/spa-kit
 
 You are bootstrapping a **frontend** from spa-kit. Do this in order. Do not invent a different folder layout.
 
-1. Clone (or `degit`) this repository into the target directory. Keep `.git` only if the product should stay on this history; otherwise clone then `rm -rf .git && git init`.
+1. Clone (or `degit`) https://github.com/ajaybhatia/spa-kit into the target directory. Keep `.git` only if the product should stay on this history; otherwise clone then `rm -rf .git && git init`.
 2. Read **this file**, `docs/ARCHITECTURE.md`, and `.claude/skills/spa-kit/SKILL.md` (Cursor: `.cursor/skills/spa-kit/SKILL.md`) **before writing code**.
 3. Run the **Rename this kit into a product** checklist below (package name, `STORAGE_PREFIX`, title, sidebar brand).
 4. `npm ci` (or `npm install`) then `make lint && make build`. Fix failures before adding features.

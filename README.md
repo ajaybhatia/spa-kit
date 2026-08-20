@@ -1,12 +1,12 @@
 # spa-kit
 
-Vite + React SPA kernel. Copy this folder (or clone the GitHub URL), rename, add domain screens.
+Vite + React SPA kernel. Copy this folder (or clone https://github.com/ajaybhatia/spa-kit), rename, add domain screens.
 
 Architecture and import rules: [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md). Agent contract: [`AGENTS.md`](AGENTS.md).
 
 ## Give this URL to an AI agent
 
-Paste the repo URL and say: use this as the frontend starter; follow `AGENTS.md`.
+Give the agent https://github.com/ajaybhatia/spa-kit and say: use this as the frontend starter; follow `AGENTS.md`.
 
 The agent must:
 

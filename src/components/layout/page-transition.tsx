@@ -43,10 +43,10 @@ export function PageTransition({ children }: { children: React.ReactNode }) {
       <div
         key={pathname}
         className={cn(
-          "min-w-0 transform-gpu will-change-[opacity,transform] motion-reduce:transition-none",
+          "min-w-0 motion-reduce:transition-none",
           isNavigating
-            ? "pointer-events-none scale-[0.992] opacity-35 blur-[0.4px] transition-[opacity,transform,filter] duration-200 ease-in"
-            : "scale-100 opacity-100 blur-0 animate-page-enter",
+            ? "pointer-events-none opacity-70 transition-opacity duration-200 ease-out"
+            : "opacity-100",
         )}
       >
         {children}
